@@ -1,0 +1,20 @@
+{
+    "title": "Satark Portal",
+    "subtitle": "Delhi Police Citizen Intelligence Portal",
+    "nav": {
+        "home": "Home",
+        "report": "Report Incident",
+        "track": "Track Status",
+        "login": "Officer Login"
+    },
+    "hero": {
+        "heading": "Be the Eyes and Ears of Delhi",
+        "subheading": "Secure, Anonymous, and Direct Intelligence Reporting System.",
+        "cta_report": "Report an Incident",
+        "cta_track": "Track Status"
+    },
+    "footer": {
+        "copyright": "2026 Delhi Police. All Rights Reserved.",
+        "security": "Secure Connection | 256-bit Encryption"
+    }
+}
